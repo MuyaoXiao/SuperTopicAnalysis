@@ -13,7 +13,7 @@ Crawl the Super Topic data of Sina Weibo and doing basic data analysis automatic
 ## Visualization
 
 ### Aim of visulization
-- To represent the popularity change of the Super Topic during a time period.
+- To represent the popularity change trend of a certain Super Topic during a time period.
 - To comparing the popularity ratio of different Super Topics.
 
 ### Method of visulization
